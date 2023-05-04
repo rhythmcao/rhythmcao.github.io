@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations</title><link>https://rhythmcao.github.io/publication/lgesql/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/lgesql/</guid><description>&lt;!--
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>DIR: A Large-Scale Dialogue Rewrite Dataset for Cross-Domain Conversational Text-to-SQL</title><link>https://rhythmcao.github.io/publication/li-2023-dir/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/li-2023-dir/</guid><description/></item><item><title>TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages</title><link>https://rhythmcao.github.io/publication/zhao-2022-tie/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/zhao-2022-tie/</guid><description/></item><item><title>LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations</title><link>https://rhythmcao.github.io/publication/lgesql/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/lgesql/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -21,7 +21,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://rhythmcao.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Decoupled Dialogue Modeling and Semantic Parsing for Multi-Turn Text-to-SQL</title><link>https://rhythmcao.github.io/publication/chen-2021-decoupled/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/chen-2021-decoupled/</guid><description/></item><item><title>Few-Shot NLU with Vector Projection Distance and Abstract Triangular CRF</title><link>https://rhythmcao.github.io/publication/zhu-2021-few/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/zhu-2021-few/</guid><description/></item><item><title>Relation-Aware Graph Transformer for SQL-to-Text Generation</title><link>https://rhythmcao.github.io/publication/ma-2021-relation/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/ma-2021-relation/</guid><description/></item><item><title>ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser</title><link>https://rhythmcao.github.io/publication/chen-2021-shadowgnn/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/chen-2021-shadowgnn/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://rhythmcao.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -100,7 +100,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Writing technical content in Markdown</title><link>https://rhythmcao.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Jointly Encoding Word Confusion Network and Dialogue Context with BERT for Spoken Language Understanding</title><link>https://rhythmcao.github.io/publication/liu-2020-jointly/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/liu-2020-jointly/</guid><description/></item><item><title>Line graph enhanced AMR-to-text generation with mix-order graph attention networks</title><link>https://rhythmcao.github.io/publication/zhao-2020-line/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/publication/zhao-2020-line/</guid><description/></item><item><title>Writing technical content in Markdown</title><link>https://rhythmcao.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://rhythmcao.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
 &lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
 &lt;h2 id="examples">Examples&lt;/h2>
@@ -191,7 +191,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-259641837" class="chart">&lt;/div>
+&lt;div id="chart-634975281" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -200,7 +200,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-259641837', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-634975281', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
