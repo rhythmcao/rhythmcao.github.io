@@ -7,7 +7,7 @@ authors:
 - Jixuan Chen
 - Xiaochuan Li
 - Siheng Zhao
-- Ruisheng Cao
+- admin
 - Toh Jing Hua
 - Zhoujun Cheng
 - Dongchan Shin

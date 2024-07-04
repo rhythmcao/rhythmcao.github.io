@@ -3,7 +3,7 @@ title: Relation-Aware Graph Transformer for SQL-to-Text Generation
 authors:
 - Da Ma
 - Xingyu Chen
-- Ruisheng Cao
+- admin
 - Zhi Chen
 - Lu Chen
 - Kai Yu

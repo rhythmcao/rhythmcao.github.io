@@ -3,12 +3,15 @@ title: A Birgat Model for Multi-Intent Spoken Language Understanding with Hierar
   Semantic Frames
 authors:
 - Hongshen Xu
-- Ruisheng Cao
+- admin
 - Su Zhu
 - Sheng Jiang
 - Hanchong Zhang
 - Lu Chen
 - Kai Yu
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2024-01-01'
 publishDate: '2024-07-04T09:43:58.049364Z'
 publication_types:

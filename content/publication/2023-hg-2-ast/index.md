@@ -1,7 +1,7 @@
 ---
 title: A Heterogeneous Graph to Abstract Syntax Tree Framework for Text-to-SQL
 authors:
-- Ruisheng Cao
+- admin
 - Lu Chen
 - Jieyu Li
 - Hanchong Zhang

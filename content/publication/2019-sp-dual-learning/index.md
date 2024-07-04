@@ -1,7 +1,7 @@
 ---
 title: Semantic Parsing with Dual Learning
 authors:
-- Ruisheng Cao
+- admin
 - Su Zhu
 - Chen Liu
 - Jieyu Li

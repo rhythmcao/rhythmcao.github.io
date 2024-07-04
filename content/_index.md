@@ -43,7 +43,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: papers
+    id: selected
     content:
       title: Featured Publications
       filters:
@@ -54,9 +54,10 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
-      text: ""
+      text: "Here are publications sorted by year."
       filters:
         folders:
           - publication

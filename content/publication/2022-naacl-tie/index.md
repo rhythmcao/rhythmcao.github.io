@@ -4,7 +4,7 @@ title: 'TIE: Topological Information Enhanced Structural Reading Comprehension o
 authors:
 - Zihan Zhao
 - Lu Chen
-- Ruisheng Cao
+- admin
 - Hongshen Xu
 - Xingyu Chen
 - Kai Yu

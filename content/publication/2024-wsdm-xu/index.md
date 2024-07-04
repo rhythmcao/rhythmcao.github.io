@@ -5,7 +5,7 @@ authors:
 - Lu Chen
 - Zihan Zhao
 - Da Ma
-- Ruisheng Cao
+- admin
 - Zichen Zhu
 - Kai Yu
 date: '2024-01-01'

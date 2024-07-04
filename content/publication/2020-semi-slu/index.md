@@ -2,8 +2,12 @@
 title: Dual Learning for Semi-Supervised Natural Language Understanding
 authors:
 - Su Zhu
-- Ruisheng Cao
+- admin
 - Kai Yu
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: '2020-01-01'
 publishDate: '2024-07-04T09:43:57.946876Z'
 publication_types:

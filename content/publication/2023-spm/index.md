@@ -3,7 +3,7 @@ title: 'SPM: A Split-Parsing Method for Joint Multi-Intent Detection and Slot Fi
 authors:
 - Sheng Jiang
 - Su Zhu
-- Ruisheng Cao
+- admin
 - Qingliang Miao
 - Kai Yu
 date: '2023-01-01'

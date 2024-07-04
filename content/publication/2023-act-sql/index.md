@@ -3,7 +3,7 @@ title: 'ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generate
   Chain-of-Thought'
 authors:
 - Hanchong Zhang
-- Ruisheng Cao
+- admin
 - Lu Chen
 - Hongshen Xu
 - Kai Yu

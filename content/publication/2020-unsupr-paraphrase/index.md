@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing
 authors:
-- Ruisheng Cao
+- admin
 - Su Zhu
 - Chenyu Yang
 - Chen Liu

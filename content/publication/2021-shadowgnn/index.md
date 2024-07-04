@@ -4,7 +4,7 @@ authors:
 - Zhi Chen
 - Lu Chen
 - Yanbin Zhao
-- Ruisheng Cao
+- admin
 - Zihan Xu
 - Su Zhu
 - Kai Yu

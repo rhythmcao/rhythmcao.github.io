@@ -2,7 +2,7 @@
 title: 'LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local
   Relations'
 authors:
-- Ruisheng Cao
+- admin
 - Lu Chen
 - Zhi Chen
 - Yanbin Zhao

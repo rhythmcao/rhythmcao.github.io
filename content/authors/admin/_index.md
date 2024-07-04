@@ -32,7 +32,7 @@ bio: Research interests include structured natural language understanding and ge
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: hero/envelope
     url: 'mailto:ruishengcao@gmail.com'
     label: E-mail Me
   - icon: brands/github
@@ -46,8 +46,6 @@ profiles:
 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-    # url: https://www.instagram.com/
   # - icon: brands/linkedin
     # url: https://www.linkedin.com/
 

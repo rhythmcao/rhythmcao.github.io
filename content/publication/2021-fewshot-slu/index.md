@@ -3,7 +3,7 @@ title: Few-Shot NLU with Vector Projection Distance and Abstract Triangular CRF
 authors:
 - Su Zhu
 - Lu Chen
-- Ruisheng Cao
+- admin
 - Zhi Chen
 - Qingliang Miao
 - Kai Yu

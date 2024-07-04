@@ -4,7 +4,7 @@ authors:
 - Hanchong Zhang
 - Jieyu Li
 - Lu Chen
-- Ruisheng Cao
+- admin
 - Yunyan Zhang
 - Yu Huang
 - Yefeng Zheng

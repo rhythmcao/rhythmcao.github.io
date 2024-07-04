@@ -2,7 +2,7 @@
 title: 'CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions'
 authors:
 - Hanchong Zhang
-- Ruisheng Cao
+- admin
 - Hongshen Xu
 - Lu Chen
 - Kai Yu

@@ -3,7 +3,7 @@ title: Exploring Schema Generalizability of Text-to-SQL
 authors:
 - Jieyu Li
 - Lu Chen
-- Ruisheng Cao
+- admin
 - Su Zhu
 - Hongshen Xu
 - Zhi Chen
