@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruisheng Cao 曹瑞升
+title: Ruisheng Cao
 
 # Name pronunciation (optional)
 name_pronunciation: Rhythm Tsao
@@ -27,13 +27,13 @@ organizations:
   - name: X-LANCE Lab, SJTU
     url: https://x-lance.sjtu.edu.cn/en
 
-bio: Research interests include structured natural language understanding and generation, and large language model or vision language model based multimodal agents.
+bio: Research interests include structured natural language understanding and generation, and large language model or vision language model based agents.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ruishengcao@gmail.com'
+    url: 'ruishengcao@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/rhythmcao
@@ -42,7 +42,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4635-4368
   - icon: academicons/weixin
-    
+
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
