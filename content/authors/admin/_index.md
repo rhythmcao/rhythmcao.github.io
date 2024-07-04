@@ -33,7 +33,7 @@ bio: Research interests include structured natural language understanding and ge
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ruishengcao@gmail.com'
+    url: 'mailto:ruishengcao@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/rhythmcao
@@ -41,7 +41,8 @@ profiles:
     url: https://scholar.google.com/citations?user=NdK881sAAAAJ&hl=zh-CN
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4635-4368
-  - icon: academicons/weixin
+  - icon: brands/weixin
+
 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -54,15 +55,15 @@ interests:
   - Semantic Parsing
   - Text-to-SQL
   - Task-oriented Dialogue System
-  - Natural Language Understanding and Generation
+  - Structured NLU and NLG
   - LLM/VLM-based Multimodal Agents
   # - Artificial Intelligence
   # - Computational Linguistics
   # - Information Retrieval
 
 education:
-  - area: PhD candidate in Computer Technology
-    institution: Stanford University
+  - area: PhD in Computer Technology
+    institution: Shanghai Jiao Tong University
     date_start: 2021-04-01
     date_end: 2025-03-31
   #   summary: |
@@ -81,7 +82,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.Eng. in Computer Science and Technology
+  - area: B.Eng. in Computer Science
     institution: Shanghai Jiao Tong University
     date_start: 2014-09-13
     date_end: 2018-07-08
