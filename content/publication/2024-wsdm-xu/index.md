@@ -8,8 +8,7 @@ authors:
 - admin
 - Zichen Zhu
 - Kai Yu
-date: '2024-01-01'
-publishDate: '2024-07-04T09:43:58.055687Z'
+date: '2024-03-04'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 17th ACM International Conference on Web Search

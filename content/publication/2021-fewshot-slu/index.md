@@ -7,8 +7,7 @@ authors:
 - Zhi Chen
 - Qingliang Miao
 - Kai Yu
-date: '2021-01-01'
-publishDate: '2024-07-04T09:43:57.985997Z'
+date: '2021-10-13'
 publication_types:
 - paper-conference
 publication: '*Natural Language Processing and Chinese Computing - 10th CCF International

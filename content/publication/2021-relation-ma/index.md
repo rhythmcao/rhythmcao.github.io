@@ -7,8 +7,7 @@ authors:
 - Zhi Chen
 - Lu Chen
 - Kai Yu
-date: '2021-01-01'
-publishDate: '2024-07-04T09:43:57.992518Z'
+date: '2021-12-31'
 publication_types:
 - article-journal
 publication: '*Applied Sciences*'

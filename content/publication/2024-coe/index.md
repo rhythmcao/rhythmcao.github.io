@@ -6,8 +6,7 @@ authors:
 - Hongshen Xu
 - Lu Chen
 - Kai Yu
-date: '2024-06-01'
-publishDate: '2024-07-04T09:43:58.042994Z'
+date: '2024-06-16'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2024 Conference of the North American Chapter of
@@ -23,7 +22,7 @@ url_code: 'https://github.com/x-lance/text2sql-multiturn-gpt'
 url_pdf: 'https://aclanthology.org/2024.naacl-long.361'
 
 tags:
-- large langguage model
+- large language model
 - text-to-SQL
 - chain-of-thought
 - in-context learning

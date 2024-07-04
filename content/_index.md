@@ -46,16 +46,15 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      count: 8
+      count: 0
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
-    id: papers
     content:
       title: Recent Publications
       text: "Here are publications sorted by year."

@@ -19,8 +19,7 @@ authors:
 - Caiming Xiong
 - Victor Zhong
 - Tao Yu
-date: '2024-01-01'
-publishDate: '2024-07-04T09:43:57.979307Z'
+date: '2024-04-11'
 publication_types:
 - article-journal
 publication: '*CoRR*'
@@ -30,8 +29,8 @@ links:
   url: https://doi.org/10.48550/arXiv.2404.07972
 
 tags:
-  - Multimodal Agents
-  - Large Language Models
+  - multimodal agents
+  - large language model
 
 featured: true
 

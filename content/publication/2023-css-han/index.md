@@ -9,8 +9,7 @@ authors:
 - Yu Huang
 - Yefeng Zheng
 - Kai Yu
-date: '2023-01-01'
-publishDate: '2024-07-04T09:43:58.030144Z'
+date: '2023-07-09'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: ACL 2023,

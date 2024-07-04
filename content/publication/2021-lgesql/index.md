@@ -8,8 +8,8 @@ authors:
 - Yanbin Zhao
 - Su Zhu
 - Kai Yu
-date: '2021-01-01'
-publishDate: '2024-07-04T09:43:57.917128Z'
+date: '2021-08-06'
+
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 59th Annual Meeting of the Association for Computational
@@ -29,6 +29,6 @@ tags:
 
 url_pdf: 'https://arxiv.org/pdf/2106.01093.pdf'
 url_code: 'https://github.com/rhythmcao/text2sql-lgesql'
-# url_video:
+url_video: 'https://underline.io/lecture/25524-lgesql-line-graph-enhanced-text-to-sql-model-with-mixed-local-and-non-local-relations'
 
 ---

@@ -8,8 +8,7 @@ authors:
 - Hongshen Xu
 - Wangyou Zhang
 - Kai Yu
-date: '2023-01-01'
-publishDate: '2024-07-04T09:43:58.017401Z'
+date: '2023-07-26'
 publication_types:
 - article-journal
 publication: '*IEEE Trans. Pattern Anal. Mach. Intell.*'
