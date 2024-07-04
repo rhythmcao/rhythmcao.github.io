@@ -16,4 +16,7 @@ doi: 10.18653/V1/2020.ACL-MAIN.67
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2020.acl-main.67
+
+url_code: 'https://github.com/ybz79/AMR2text'
+
 ---

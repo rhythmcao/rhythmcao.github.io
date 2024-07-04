@@ -18,4 +18,8 @@ doi: 10.18653/V1/2023.FINDINGS-ACL.435
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2023.findings-acl.435
+
+url_dataset: 'https://huggingface.co/datasets/zhanghanchong/css'
+url_code: 'https://github.com/X-LANCE/medical-dataset'
+
 ---

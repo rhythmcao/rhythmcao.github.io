@@ -18,4 +18,7 @@ doi: 10.18653/V1/2023.FINDINGS-ACL.87
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2023.findings-acl.87
+
+url_code: 'https://github.com/Auracion/schema_generation_framework'
+
 ---

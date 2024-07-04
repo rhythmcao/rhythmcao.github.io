@@ -18,4 +18,7 @@ doi: 10.18653/V1/2021.NAACL-MAIN.441
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2021.naacl-main.441
+
+url_code: 'https://github.com/WowCZ/shadowgnn'
+
 ---
