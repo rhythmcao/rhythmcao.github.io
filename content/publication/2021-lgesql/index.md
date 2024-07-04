@@ -27,7 +27,6 @@ tags:
   - semantic parsing
   - graph neural network
 
-url_pdf: 'https://arxiv.org/pdf/2106.01093.pdf'
 url_code: 'https://github.com/rhythmcao/text2sql-lgesql'
 url_video: 'https://underline.io/lecture/25524-lgesql-line-graph-enhanced-text-to-sql-model-with-mixed-local-and-non-local-relations'
 
