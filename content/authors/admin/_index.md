@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ruisheng Cao 曹瑞升
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Rhythm Tsao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ruisheng
+last_name: Cao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 4th-year CS PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: X-LANCE Lab, SJTU
+    url: https://x-lance.sjtu.edu.cn/en
+
+bio: Research interests include structured natural language understanding and generation, and large language model or vision language model based multimodal agents.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ruishengcao@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/rhythmcao
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=NdK881sAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4635-4368
+  - icon: academicons/weixin
+    
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
+  # - icon: brands/linkedin
+    # url: https://www.linkedin.com/
 
 interests:
   - Artificial Intelligence
@@ -183,4 +187,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruisheng Cao is a 4th-year PhD candidate at X-LANCE Lab supervised by professor [Kai Yu](https://x-lance.github.io/kaiyu/), in Shanghai Jiao Tong University. His research interests mainly lie in 1) structured natural language understanding and generation, including semantic parsing, text-to-SQL, code intelligence and task-oriented dialogue systems, and 2) large language model (LLM) or vision language model (VLM) based multi-modal agents in fields like data science and engineering, Web navigation and computer control.
