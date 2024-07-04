@@ -17,4 +17,16 @@ doi: 10.1109/TPAMI.2023.3298895
 links:
 - name: URL
   url: https://doi.org/10.1109/TPAMI.2023.3298895
+
+tags:
+- text-to-SQL
+- semantic parsing
+- graph neural network
+- structured prediction
+
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10194972'
+url_code: 'https://github.com/rhythmcao/text2sql-graph2tree'
+
+featured: true
+
 ---

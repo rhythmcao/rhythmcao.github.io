@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-07-04
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
@@ -43,9 +43,10 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: selected
+    id: papers
     content:
       title: Featured Publications
+      count: 8
       filters:
         folders:
           - publication

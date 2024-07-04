@@ -17,4 +17,14 @@ doi: 10.18653/V1/P19-1007
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/p19-1007
+
+featured: true
+
+url_pdf: 'https://aclanthology.org/P19-1007.pdf'
+url_code: 'https://github.com/rhythmcao/semantic-parsing-dual'
+
+tags:
+- dual learning
+- semantic parsing
+
 ---

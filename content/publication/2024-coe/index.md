@@ -16,4 +16,17 @@ publication: '*Proceedings of the 2024 Conference of the North American Chapter 
 links:
 - name: URL
   url: https://aclanthology.org/2024.naacl-long.361
+
+featured: true
+
+url_code: 'https://github.com/x-lance/text2sql-multiturn-gpt'
+url_pdf: 'https://aclanthology.org/2024.naacl-long.361'
+
+tags:
+- large langguage model
+- text-to-SQL
+- chain-of-thought
+- in-context learning
+- prompt engineering
+
 ---

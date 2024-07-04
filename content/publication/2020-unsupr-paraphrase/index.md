@@ -19,4 +19,15 @@ doi: 10.18653/V1/2020.ACL-MAIN.608
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2020.acl-main.608
+
+url_pdf: 'https://arxiv.org/pdf/2005.13485.pdf'
+url_code: 'https://github.com/rhythmcao/unsup-two-stage-semantic-parsing'
+
+featured: true
+
+tags:
+- semantic parsing
+- unsupervised learning
+- dual learning
+
 ---
