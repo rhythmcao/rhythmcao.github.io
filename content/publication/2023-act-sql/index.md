@@ -16,4 +16,7 @@ doi: 10.18653/V1/2023.FINDINGS-EMNLP.227
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2023.findings-emnlp.227
+
+url_code: 'https://github.com/X-LANCE/text2sql-GPT'
+
 ---

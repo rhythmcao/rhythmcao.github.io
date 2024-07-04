@@ -34,7 +34,6 @@ tags:
 
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2404.07972'
 url_code: 'https://github.com/xlang-ai/OSWorld'
 url_dataset: 'https://github.com/xlang-ai/OSWorld/tree/main/evaluation_examples'
 # url_poster: ''

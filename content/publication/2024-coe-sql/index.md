@@ -19,7 +19,6 @@ links:
 featured: true
 
 url_code: 'https://github.com/x-lance/text2sql-multiturn-gpt'
-url_pdf: 'https://aclanthology.org/2024.naacl-long.361'
 
 tags:
 - large language model

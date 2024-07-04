@@ -24,7 +24,6 @@ links:
 
 featured: true
 
-url_pdf: 'https://aclanthology.org/P19-1007.pdf'
 url_code: 'https://github.com/rhythmcao/semantic-parsing-dual'
 
 tags:

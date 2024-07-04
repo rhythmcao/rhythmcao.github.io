@@ -29,7 +29,6 @@ links:
 - name: URL
   url: https://doi.org/10.1109/TASLP.2020.3001684
 
-url_pdf: https://arxiv.org/pdf/2004.12299.pdf
 url_code: 'https://github.com/rhythmcao/slu-dual-learning'
 
 ---

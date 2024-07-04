@@ -23,7 +23,6 @@ tags:
 - graph neural network
 - structured prediction
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10194972'
 url_code: 'https://github.com/rhythmcao/text2sql-graph2tree'
 
 featured: true
