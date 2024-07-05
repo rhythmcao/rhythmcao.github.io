@@ -62,7 +62,7 @@ education:
     date_start: 2021-04-01
     date_end: 2025-03-31
     summary: |
-      - Intern at XLANG Lab, the University of Hong Kong, mentored by [Tao Yu](https://taoyds.github.io/)
+      - Intern at XLANG Lab, the University of Hong Kong, mentored by <a href="https://taoyds.github.io/">Tao Yu</a>
       - The 3rd Wu Wenjun AI Honorary Doctoral Program (only 15 students in SJTU)
     # button:
       # text: 'Read Thesis'
