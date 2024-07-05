@@ -19,4 +19,8 @@ links:
 
 url_code: 'https://github.com/ybz79/AMR2text'
 
+tags:
+- graph neural network
+- natural language generation
+
 ---

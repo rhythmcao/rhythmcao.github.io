@@ -29,8 +29,9 @@ links:
   url: https://doi.org/10.48550/arXiv.2404.07972
 
 tags:
-  - multimodal agents
-  - large language model
+- multimodal agents
+- large language model
+- interface interaction and understanding
 
 featured: true
 

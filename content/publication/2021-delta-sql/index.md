@@ -18,4 +18,13 @@ doi: 10.18653/V1/2021.FINDINGS-ACL.270
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2021.findings-acl.270
+
+tags:
+- text-to-SQL
+- semantic parsing
+- graph neural network
+- dual learning
+- natural language generation
+- paraphrasing
+
 ---

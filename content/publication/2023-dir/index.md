@@ -13,4 +13,11 @@ date: '2023-02-07'
 publication_types:
 - article-journal
 publication: '*Applied Sciences*'
+
+tags:
+- benchmark
+- text-to-SQL
+- semantic parsing
+- paraphrasing
+
 ---

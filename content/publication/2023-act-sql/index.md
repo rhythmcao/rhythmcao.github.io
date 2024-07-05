@@ -19,4 +19,11 @@ links:
 
 url_code: 'https://github.com/X-LANCE/text2sql-GPT'
 
+tags:
+- large language model
+- text-to-SQL
+- chain-of-thought
+- in-context learning
+- prompt engineering
+
 ---

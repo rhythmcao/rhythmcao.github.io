@@ -22,4 +22,9 @@ links:
 url_dataset: 'https://huggingface.co/datasets/zhanghanchong/css'
 url_code: 'https://github.com/X-LANCE/medical-dataset'
 
+tags:
+- benchmark
+- text-to-SQL
+- semantic parsing
+
 ---

@@ -15,4 +15,9 @@ doi: 10.18653/V1/2023.ACL-INDUSTRY.64
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2023.acl-industry.64
+
+tags:
+- spoken language understanding
+- model generalization
+
 ---

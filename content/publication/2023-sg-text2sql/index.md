@@ -21,4 +21,9 @@ links:
 
 url_code: 'https://github.com/Auracion/schema_generation_framework'
 
+tags:
+- text-to-SQL
+- semantic parsing
+- model generalization
+
 ---

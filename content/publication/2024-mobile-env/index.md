@@ -20,4 +20,9 @@ links:
   url: https://arxiv.org/abs/2305.08144
 - name: URL
   url: https://arxiv.org/abs/2305.08144
+
+tags:
+- multimodal agents
+- large language model
+- interface interaction and understanding
 ---

@@ -21,4 +21,9 @@ links:
 
 url_code: 'https://github.com/WowCZ/shadowgnn'
 
+tags:
+- text-to-SQL
+- semantic parsing
+- graph neural network
+
 ---

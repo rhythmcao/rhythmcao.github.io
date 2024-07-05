@@ -29,5 +29,8 @@ tags:
 - semantic parsing
 - unsupervised learning
 - dual learning
+- data generation
+- natural language generation
+- paraphrasing
 
 ---

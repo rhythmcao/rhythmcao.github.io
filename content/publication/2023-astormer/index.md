@@ -18,5 +18,11 @@ links:
   url: https://doi.org/10.48550/arXiv.2310.18662
 
 url_code: 'https://github.com/rhythmcao/astormer'
+tags:
+- text-to-SQL
+- semantic parsing
+- neural symbolic processing
+- graph neural network
+- structured prediction
 
 ---

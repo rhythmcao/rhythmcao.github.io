@@ -16,4 +16,10 @@ doi: 10.1007/978-3-030-88480-2_40
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-88480-2_40
+
+tags:
+- spoken language understanding
+- few-shot learning
+- graph neural network
+
 ---

@@ -29,5 +29,7 @@ url_code: 'https://github.com/rhythmcao/semantic-parsing-dual'
 tags:
 - dual learning
 - semantic parsing
+- data generation
+- natural language generation
 
 ---

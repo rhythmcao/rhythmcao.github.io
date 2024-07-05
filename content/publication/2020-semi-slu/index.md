@@ -24,6 +24,8 @@ tags:
 - semi-supervised learning
 - spoken language understanding
 - dual learning
+- data generation
+- natural language generation
 
 links:
 - name: URL

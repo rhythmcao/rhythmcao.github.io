@@ -18,4 +18,9 @@ doi: 10.18653/V1/2022.NAACL-MAIN.132
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2022.naacl-main.132
+
+tags:
+- web understanding
+- graph neural network
+
 ---

@@ -22,6 +22,7 @@ doi: 10.1109/ICASSP48485.2024.10446325
 tags:
 - spoken language understanding
 - graph neural network
+- model generalization
 
 url_code: 'https://github.com/importpandas/MIVS_BIRGAT'
 

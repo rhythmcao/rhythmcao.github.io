@@ -20,6 +20,7 @@ links:
 tags:
 - text-to-SQL
 - semantic parsing
+- neural symbolic processing
 - graph neural network
 - structured prediction
 
