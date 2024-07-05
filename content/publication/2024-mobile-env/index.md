@@ -16,8 +16,6 @@ date: '2023-05-14'
 publication_types:
 - manuscript
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2305.08144
 - name: URL
   url: https://arxiv.org/abs/2305.08144
 
@@ -25,4 +23,9 @@ tags:
 - multimodal agents
 - large language model
 - interface interaction and understanding
+doi: '10.48550/arXiv.2305.08144'
+
+url_code: 'https://github.com/X-LANCE/Mobile-Env'
+url_dataset: 'https://huggingface.co/datasets/X-LANCE/WikiHow-taskset'
+
 ---

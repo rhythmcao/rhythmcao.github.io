@@ -19,6 +19,11 @@ publication_types:
 publication: '*ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
 doi: 10.1109/ICASSP48485.2024.10446325
+
+links:
+- name: URL
+  url: https://arxiv.org/pdf/2402.18258
+
 tags:
 - spoken language understanding
 - graph neural network

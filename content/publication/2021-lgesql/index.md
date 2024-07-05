@@ -30,5 +30,6 @@ tags:
 
 url_code: 'https://github.com/rhythmcao/text2sql-lgesql'
 url_video: 'https://underline.io/lecture/25524-lgesql-line-graph-enhanced-text-to-sql-model-with-mixed-local-and-non-local-relations'
+url_slides: 2021-lgesql.pdf
 
 ---

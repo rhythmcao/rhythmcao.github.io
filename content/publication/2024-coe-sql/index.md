@@ -17,9 +17,9 @@ links:
   url: https://aclanthology.org/2024.naacl-long.361
 
 featured: true
+doi: '10.48550/ARXIV.2405.02712'
 
 url_code: 'https://github.com/x-lance/text2sql-multiturn-gpt'
-
 tags:
 - large language model
 - text-to-SQL

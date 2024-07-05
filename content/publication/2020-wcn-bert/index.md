@@ -24,7 +24,10 @@ links:
 - name: URL
   url: https://doi.org/10.21437/Interspeech.2020-1632
 
+tags:
 - spoken language understanding
 - graph neural network
+
+url_code: 'https://github.com/simplc/WCN-BERT'
 
 ---

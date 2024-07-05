@@ -22,6 +22,7 @@ links:
   url: https://doi.org/10.18653/v1/2020.acl-main.608
 
 url_code: 'https://github.com/rhythmcao/unsup-two-stage-semantic-parsing'
+url_slides: 2020-unsupr-paraphrase.pptx
 
 featured: true
 
