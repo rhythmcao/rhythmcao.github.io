@@ -26,7 +26,7 @@ featured: true
 
 url_code: 'https://github.com/rhythmcao/semantic-parsing-dual'
 url_video: 'https://vimeo.com/383955994'
-url_slides: semantic-parsing-dual-learning.pdf
+url_slides: 2019-sp-dual-learning.pptx
 
 tags:
 - dual learning
