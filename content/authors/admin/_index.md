@@ -25,7 +25,7 @@ role: 4th-year CS PhD candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: X-LANCE Lab, SJTU
-    url: https://x-lance.sjtu.edu.cn/en
+    url: https://x-lance.sjtu.edu.cn/
 
 bio: Research interests include structured natural language understanding, model-based data generation and iterative training, and LLM-based multi-modal agents.
 
@@ -208,4 +208,4 @@ awards:
 
 ## About Me
 
-Ruisheng Cao is a 4th-year PhD candidate at X-LANCE Lab supervised by professor [Kai Yu](https://x-lance.github.io/kaiyu/), in Shanghai Jiao Tong University (SJTU). His research interests mainly lie in structured natural language understanding (including semantic parsing, text-to-SQL, code intelligence and task-oriented dialogue systems), model-based data generation or augmentation with cycle learning and iterative training, and large language model (LLM) or vision language model (VLM) based multi-modal agents in fields like coding, data science and engineering, website navigation and computer control.
+Ruisheng Cao is a 4th-year PhD candidate at [X-LANCE Lab](https://x-lance.sjtu.edu.cn/) supervised by professor [Kai Yu](https://x-lance.github.io/kaiyu/), in Shanghai Jiao Tong University (SJTU). His research interests mainly lie in structured natural language understanding (including semantic parsing, text-to-SQL, code intelligence and task-oriented dialogue systems), model-based data generation or augmentation with cycle learning and iterative training, and large language model (LLM) or vision language model (VLM) based multi-modal agents in fields like coding, data science and engineering, website navigation and computer control.
