@@ -1,6 +1,5 @@
 ---
-title: 'OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer
-  Environments'
+title: 'Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?'
 authors:
 - admin
 - Fangyu Lei
