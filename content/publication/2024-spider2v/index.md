@@ -30,7 +30,7 @@ date: '2024-07-15'
 publication_types:
 - manuscript
 publication: '*CoRR*'
-# doi: # to be added
+doi: 10.48550/arXiv.2407.10956
 links:
 - name: URL
   url: http://arxiv.org/abs/2407.10956
