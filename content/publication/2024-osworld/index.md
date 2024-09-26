@@ -21,8 +21,8 @@ authors:
 - Tao Yu
 date: '2024-04-11'
 publication_types:
-- article-journal
-publication: '*CoRR*'
+- paper-conference
+publication: '*Advances in Neural Information Processing Systems (NeurIPS), 2024*'
 doi: 10.48550/ARXIV.2404.07972
 links:
 - name: URL
