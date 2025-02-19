@@ -1,5 +1,5 @@
 ---
-title: 'Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?'
+title: 'Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows'
 authors:
 - Fangyu Lei
 - Jixuan Chen
@@ -27,9 +27,8 @@ links:
   url: https://arxiv.org/pdf/2411.07763
 
 tags:
-- llm-based agents
-- large language model
 - text-to-SQL
+- large language model
 
 featured: true
 
