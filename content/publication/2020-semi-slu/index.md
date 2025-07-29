@@ -10,15 +10,13 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: '2020-08-06'
+date: '2020-06-11'
 publication_types:
 - article-journal
 
-publication: '*IEEE ACM Trans. Audio Speech Lang. Process.*'
+publication: '*IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1936-1947, TASLP 2020*'
 
 doi: 10.1109/TASLP.2020.3001684
-
-featured: true
 
 tags:
 - semi-supervised learning
